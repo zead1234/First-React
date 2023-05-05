@@ -8,7 +8,6 @@ function NavBar (){
         <Navbar classnName="text-center" bg="dark" variant="dark" expand="lg">
         <Container>
           <Navbar.Brand  href="#home">My-React-Bootstrap-App</Navbar.Brand>
-          <Navbar.Toggle aria-controls="basic-navbar-nav" />
           
         </Container>
       </Navbar>

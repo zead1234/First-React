@@ -14,7 +14,7 @@ function App() {
       <main>
 <Fetch/>
       </main>
-    </div> </div>);
+    </div>  </div>);
 
 }
 
