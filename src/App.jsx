@@ -11,14 +11,9 @@ function App() {
       <div className="row">
         <header>  <NavBar/> </header>
       <Sub/>
-<main>
-
-
+      <main>
 <Fetch/>
-
-
-
-</main>
+      </main>
     </div> </div>);
 
 }
